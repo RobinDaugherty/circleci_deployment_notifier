@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/RobinDaugherty/circleci_deployment_notifier.svg?branch=master)](https://travis-ci.org/RobinDaugherty/circleci_deployment_notifier)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b76abb83eb5449499cbe3740c147715e)](https://www.codacy.com/app/robindaugherty/circleci_deployment_notifier?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RobinDaugherty/circleci_deployment_notifier&amp;utm_campaign=Badge_Grade)
 [![Codacy Coverage](https://api.codacy.com/project/badge/Coverage/b76abb83eb5449499cbe3740c147715e)](https://www.codacy.com/app/robindaugherty/circleci_deployment_notifier?utm_source=github.com&utm_medium=referral&utm_content=RobinDaugherty/circleci_deployment_notifier&utm_campaign=Badge_Coverage)
-[![Dependency Status](https://gemnasium.com/badges/github.com/RobinDaugherty/circleci_deployment_notifier.svg)](https://gemnasium.com/github.com/RobinDaugherty/circleci_deployment_notifier)
 
 # CircleCI Deployment Notifier
 
